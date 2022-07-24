@@ -29,3 +29,14 @@ body {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+header {
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a {
+    padding: 8px;
+}
