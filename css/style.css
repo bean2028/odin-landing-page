@@ -40,3 +40,13 @@ header {
 a {
     padding: 8px;
 }
+
+.site-intro {
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+}
+
+.intro-text {
+    width: 500px;
+}
